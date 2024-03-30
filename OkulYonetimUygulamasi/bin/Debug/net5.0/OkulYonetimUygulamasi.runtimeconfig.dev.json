@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kudai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kudai\\.nuget\\packages"
+    ]
+  }
+}
